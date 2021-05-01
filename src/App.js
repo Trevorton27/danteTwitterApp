@@ -13,9 +13,9 @@ function App() {
       <BrowserRouter>
         <Navbar />
           <Switch>
-            <Route exact path="/" exact component={Home}></Route>
-            <Route exact path="/search" exact component={Search}></Route>
-            <Route exact path="/randomtweet" exact component={RandomTweet}></Route>
+            <Route exact path="/" exact component={Home} />
+            <Route exact path="/search" exact component={Search}/>
+            <Route exact path="/randomtweet" exact component={RandomTweet}/>
           </Switch>
       </BrowserRouter>
     </div>

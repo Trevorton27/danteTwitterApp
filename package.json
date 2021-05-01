@@ -9,6 +9,7 @@
     "bootstrap": "^5.0.0-beta3",
     "bootstrap4": "*",
     "dom": "^0.0.3",
+    "express": "^4.17.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-router": "^5.2.0",
@@ -39,5 +40,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "A twitter app",
+  "main": "server.js",
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Dante Leeseberg",
+  "license": "ISC"
 }
