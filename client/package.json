@@ -1,0 +1,16 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "twitter app client",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts start",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iceeeberg/Twitter-Showcase/tree/server-work"
+  },
+  "author": "",
+  "license": "ISC"
+}
